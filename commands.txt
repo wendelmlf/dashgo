@@ -5,3 +5,5 @@
 - yarn add @chakra-ui/react @chakra-ui/core @emotion/react @emotion/styled framer-motion
 
 - yarn add apexcharts react-apexcharts //data visualization
+
+token: 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:token
